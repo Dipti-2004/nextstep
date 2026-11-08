@@ -5,7 +5,7 @@ A job application tracker I built with React and Vite. I made it because I was a
 ![Light mode](screenshots/light.png)
 ![Dark mode](screenshots/dark.png)
 ![Add application form](screenshots/form.png)
-![Mobile view](screenshots/mobile.png)
+<img src="screenshots/mobile.png" alt="Mobile view" width="300">
 
 ## What it does
 
